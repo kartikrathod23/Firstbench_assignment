@@ -32,9 +32,11 @@ Follow the steps below to clone and run the project on your local system:
    cd <repository-folder>
 
 2. Install dependencies: Run the following command to install all necessary packages:
+    ```bash
     npm install
 
 3. Start the development server: Start the local development server by running:
+    ```bash
     npm run dev
 
 4. Open the application in your browser: The development server will start at:
